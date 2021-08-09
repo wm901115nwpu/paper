@@ -1,0 +1,87 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/wangmeng/MyProject/paper/transfomer/.texpadtmp/ms.aux
+The style file: plain.bst
+I found no \bibdata command---while reading file /Users/wangmeng/MyProject/paper/transfomer/.texpadtmp/ms.aux
+Warning--I didn't find a database entry for "hochreiter1997"
+Warning--I didn't find a database entry for "gruEval14"
+Warning--I didn't find a database entry for "sutskever14"
+Warning--I didn't find a database entry for "bahdanau2014neural"
+Warning--I didn't find a database entry for "cho2014learning"
+Warning--I didn't find a database entry for "wu2016google"
+Warning--I didn't find a database entry for "luong2015effective"
+Warning--I didn't find a database entry for "jozefowicz2016exploring"
+Warning--I didn't find a database entry for "Kuchaiev2017Factorization"
+Warning--I didn't find a database entry for "shazeer2017outrageously"
+Warning--I didn't find a database entry for "structuredAttentionNetworks"
+Warning--I didn't find a database entry for "decomposableAttnModel"
+Warning--I didn't find a database entry for "extendedngpu"
+Warning--I didn't find a database entry for "NalBytenet2017"
+Warning--I didn't find a database entry for "JonasFaceNet2017"
+Warning--I didn't find a database entry for "hochreiter2001gradient"
+Warning--I didn't find a database entry for "cheng2016long"
+Warning--I didn't find a database entry for "paulus2017deep"
+Warning--I didn't find a database entry for "lin2017structured"
+Warning--I didn't find a database entry for "sukhbaatar2015"
+Warning--I didn't find a database entry for "neural_gpu"
+Warning--I didn't find a database entry for "graves2013generating"
+Warning--I didn't find a database entry for "he2016deep"
+Warning--I didn't find a database entry for "layernorm2016"
+Warning--I didn't find a database entry for "DBLP:journals/corr/BritzGLL17"
+Warning--I didn't find a database entry for "press2016using"
+Warning--I didn't find a database entry for "sennrich2015neural"
+Warning--I didn't find a database entry for "xception2016"
+Warning--I didn't find a database entry for "kingma2014adam"
+Warning--I didn't find a database entry for "srivastava2014dropout"
+Warning--I didn't find a database entry for "DBLP:journals/corr/SzegedyVISW15"
+Warning--I didn't find a database entry for "DBLP:journals/corr/ZhouCWLX16"
+Warning--I didn't find a database entry for "KVparse15"
+Warning--I didn't find a database entry for "petrov-EtAl:2006:ACL"
+Warning--I didn't find a database entry for "zhu-EtAl:2013:ACL"
+Warning--I didn't find a database entry for "dyer-rnng:16"
+Warning--I didn't find a database entry for "huang-harper:2009:EMNLP"
+Warning--I didn't find a database entry for "mcclosky-etAl:2006:NAACL"
+Warning--I didn't find a database entry for "multiseq2seq"
+Warning--I didn't find a database entry for "marcus1993building"
+You've used 0 entries,
+            2118 wiz_defined-function locations,
+            550 strings with 5075 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
